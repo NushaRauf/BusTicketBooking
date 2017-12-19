@@ -3,9 +3,7 @@ public class Deatails
 {
 	public static void main(String arg[])
 	{
-		Scanner input = new Scanner(System.in);
-		System.out.println(" Enter Your Name : ");
-		String Name	 = input.next();
+		
 		System.out.println(" Enter Your Age : ");
 		int  Age   	 = input.nextInt();
 		System.out.println(" Enter Your Phn : ");
@@ -20,4 +18,12 @@ public class Deatails
 	{
 		double result = x+y;
 	}
+	
+public void strCompare(){
+	string s1="adfaf";
+	string s2="ssfasf";
+	string s3="sasdsf";
+	string s4="sdgdsgaf";
+	
+}
 }
