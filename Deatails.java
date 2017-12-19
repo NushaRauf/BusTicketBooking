@@ -16,4 +16,8 @@ public class Deatails
 		String Course  = input.next();
 		System.out.println(" Name :"+ Name + "\n Age : "+Age + "\n Address : "+Address + "\n Course of Study  : "+Course);
 	}
+	public void sum(double x,double y)
+	{
+		double result = x+y;
+	}
 }
